@@ -1,0 +1,3 @@
+#Sample file from lab
+
+fruits <- c("apple", "pear", "banana")
